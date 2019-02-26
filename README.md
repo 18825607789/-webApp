@@ -1,2 +1,29 @@
-# -webApp
-使用vue-cli3并且集成环信sdk，实现了环信小部分功能，单聊，表情，登录注册，添加删除好友等功能
+# chat
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
